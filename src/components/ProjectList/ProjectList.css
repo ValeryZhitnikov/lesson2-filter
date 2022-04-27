@@ -1,0 +1,10 @@
+.projects-list {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+.projects-item {
+  display: inline-block;
+  max-width: calc(25% - 20px);
+  margin: 10px;
+}
